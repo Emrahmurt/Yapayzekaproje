@@ -1,0 +1,2 @@
+# Yapayzekaproje
+yapay zeka proje
